@@ -105,7 +105,7 @@ Check out the
 [documentation](https://docs.openshift.com/container-platform/latest/installing/installing_aws/installing-aws-default.html)
 for _Installing on AWS_.
 
-### OpenShift 4
+#### OpenShift 4
 At this time an OpenShift 4 cluster can be obtained by visiting
 https://try.openshift.com -- a free "subscription" to / membership in the
 developer program is required.
